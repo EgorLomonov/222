@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hello Roman and Daniill!
+=======
+Hello Roman!
+Hello Egor!
+Hello Daniill!
+>>>>>>> Roman step 2
