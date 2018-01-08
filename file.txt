@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello!!
 =======
 Hi
 >>>>>>> Egor:first branch
+=======
+Hello world
+>>>>>>> Roman:first bransh
