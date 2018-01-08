@@ -3,5 +3,9 @@ Hello Roman and Daniill!
 =======
 Hello Roman!
 Hello Egor!
+<<<<<<< HEAD
 Hello Daniill!
 >>>>>>> Roman step 2
+=======
+Hello Daniill!
+>>>>>>> Daniill step 2
